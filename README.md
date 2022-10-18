@@ -16,7 +16,7 @@ L'applicativo permette di eseguire le seguenti operazioni:
 
 
 ## Info utili 
-Per gestire i dati si è utilizzato [DB Browser per sqlite](https://duckduckgo.com).
+Per gestire i dati si è utilizzato [DB Browser per sqlite]([https://duckduckgo.com](https://sqlitebrowser.org/)).
 Il DB viene creato automaticamente alla prima esecuzione dell'aplicativo, lo stesso verrà consultato le volte successive in cui l'applicativo verrà rieseguito
 
 
